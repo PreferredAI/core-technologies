@@ -1,3 +1,6 @@
 [submodule "venom"]
 	path = venom
 	url = https://github.com/PreferredAI/venom.git
+[submodule "cornac"]
+	path = cornac
+	url = https://github.com/PreferredAI/cornac.git
